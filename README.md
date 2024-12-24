@@ -1,2 +1,2 @@
 # Project-CSS-Photography
-simple ccs project for learning purpose 
+simple css project for learning purpose 
